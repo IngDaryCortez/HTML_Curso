@@ -1,0 +1,13 @@
+* {
+  font-family: "Dekko", cursive;
+}
+div {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  color: lightgoldenrodyellow;
+  font-weight: bold;
+  height: 100%;
+  width: 90%;
+  background-color: darkgoldenrod;
+}
